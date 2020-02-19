@@ -1,2 +1,2 @@
 # Korribann
-Sitio web para el grupo de Korriban
+Sitio web para el grupo de Korribann
